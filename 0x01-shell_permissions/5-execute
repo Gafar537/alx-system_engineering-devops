@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 700 /4-empty/hello
+chmod 764 /4-empty/hello
