@@ -1,2 +1,2 @@
 #!/bin/bash
-dirs=$(find . -maxdepth 1 -type d ! -name '.' ! -name '..' -printf '%f\n') | num_dirs=$(
+find . -type f -print | wc -la
